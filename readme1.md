@@ -1,0 +1,2 @@
+Figura 1:
+Accediendo al servidor desde la consola Amazon Web Services (AWS) ésto es posible porque actualicé la configuración de entrada del grupo de seguridad cómo firewall, para restringir el tráfico de red, si no, no se puede acceder
